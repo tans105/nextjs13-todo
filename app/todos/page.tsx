@@ -1,10 +1,9 @@
 import React from "react";
-import TodosList from "./TodosList";
 
 function page() {
   return (
     <div>
-      <TodosList />
+      <h1>Todos List</h1>
     </div>
   );
 }
